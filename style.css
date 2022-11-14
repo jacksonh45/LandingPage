@@ -3,6 +3,7 @@
 html{
     background-image: url(airplane_50_1_1920x1080.jpeg);
     background-size: cover;
+    background-repeat: no-repeat;
 }
 h1{
 
@@ -21,8 +22,9 @@ h1{
     background-color: rgb(47 132 200);
 }
 h2{
-    text-align: center;
-    p
+    position: absolute;
+    right: 44.345%;
+    bottom: 50%;
 }
 a{
     color: white;
