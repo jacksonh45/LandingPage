@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Tiro+Devanagari+Sanskrit:ital@0;1&display=swap');
+
+html{
+    background-image: url(airplane_50_1_1920x1080.jpeg);
+    background-size: cover;
+}
+h1{
+
+  position: absolute;
+  bottom: 75%;
+  right: 40.345%;
+    font-family: 'Tiro Devanagari Sanskrit', serif;
+}
+
+#navbar   {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: space-between;
+    border: 2px solid white;
+    background-color: rgb(47 132 200);
+}
+h2{
+    text-align: center;
+    p
+}
+a{
+    color: white;
+}
